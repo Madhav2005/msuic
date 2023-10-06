@@ -1,0 +1,56 @@
+.navbar {
+  height: 54px;
+  background-color: black;
+}
+.icon {
+  color: azure;
+  padding-left: 200px;
+}
+.sidebar {
+  height: 100%;
+  width: 190px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: black;
+  overflow-x: hidden;
+  padding-top: 15px;
+  padding-left: 20px;
+}
+.icon2 {
+  color: azure;
+  height: 55px;
+}
+form {
+  padding-top: 5px;
+  padding-right: 80px;
+}
+.head {
+  padding-left: 230px;
+  color: azure;
+  padding-right: 40px;
+}
+.line {
+  display: flex;
+}
+
+.column {
+  padding-left: 210px;
+}
+.colo {
+  padding-left: 230px;
+  color: azure;
+  padding-top: 50px;
+}
+.small {
+  padding-left: 220px;
+}
+.list {
+  padding-top: 50px;
+  padding-left: 200px;
+}
+.end {
+  padding-left: 230px;
+  padding-top: 40px;
+  color: white;
+}
